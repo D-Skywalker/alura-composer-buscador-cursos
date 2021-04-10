@@ -36,5 +36,7 @@
     },
     "scripts-descriptions": {
         "cs": "Execute code sniffer process validation"
-    }
+    },
+    "license": "GPL-3.0",
+    "bin": ["buscar-cursos.php"]
 }
